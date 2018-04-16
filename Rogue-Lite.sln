@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rogue-Lite", "Rogue-Lite.csproj", "{E524A5EA-D430-0927-120B-9BAEEDE53213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E524A5EA-D430-0927-120B-9BAEEDE53213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E524A5EA-D430-0927-120B-9BAEEDE53213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E524A5EA-D430-0927-120B-9BAEEDE53213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E524A5EA-D430-0927-120B-9BAEEDE53213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
